@@ -1,0 +1,23 @@
+{
+  "name": "ngx-summernote",
+  "version": "0.0.1",
+  "description": "summernote for angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/summernote/ngx-summernote.git"
+  },
+  "keywords": [
+    "summernote",
+    "angular"
+  ],
+  "author": "insanehong <insanehong@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/summernote/ngx-summernote/issues"
+  },
+  "homepage": "https://github.com/summernote/ngx-summernote#readme"
+}

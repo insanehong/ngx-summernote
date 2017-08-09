@@ -1,0 +1,22 @@
+{
+  "name": "ngx-summernote",
+  "description": "summernote for angular",
+  "main": "index.js",
+  "authors": [
+    "insanehong <insanehong@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "summernote",
+    "angular"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
